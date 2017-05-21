@@ -1,0 +1,440 @@
+{
+  "books": {
+    "htmlcss": [
+
+      {
+        "name": "《HTML5与CSS3基础教程(第8版)》",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_6bda5e209a3e587.jpg",
+        "href":"https://www.javascriptcn.com/read-55.html",
+        "introduction":"《HTML5与CSS3基础教程(第8版)》自第1版至今，一直是讲解HTML和CSS入门知识的经典畅销书，全面系统地阐述HTML5和CSS3基础知识以及实际运用技术，通过大量实例深入浅出地分析了网页制作的方方面面。最新第8版不仅介绍了文本、图像、链接、列表、表格、表单等网页元素，还介绍了如何为网页设计布局、添加动态效果等，另外还涉及调试和发布。《HTML5与CSS3基础教程(第8版)》提供了一个强大的配套网站，上面列出了书中的完整代码示例以及更多优秀实例及进阶参考资料，以供读者参考学习。通过学习《HTML5与CSS3基础教程(第8版)》，零起点读者即可创建网站，而中高级水平的开发人员也可以快速了解HTML5新元素、CSS3的奇幻效果、响应式Web设计以及各种最佳实践。"
+      },
+      {
+        "name": "《HTML5移动Web开发指南》",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_f584fe47716d7db.jpg",
+        "href":"https://www.javascriptcn.com/read-51.html",
+        "introduction":"本书是为从未接触过HTML5新技术但同时又对移动web技术感兴趣的读者而编写的。如果你有一定的HTML开发经验，将会更容易掌握HTML5知识。本书共分为四大部分，第一部分主要讲述Web技术的发展及HTML5标准在移动Web技术中的应用；第二部分主要介绍HTML5的新功能和新特性如何在移动设备浏览器中使用及相关展望；第三部分主要介绍目前比较流行的两套　　JavaScript移动开发框架jQuery Mobile、Sencha Touch，以及PhoneGap，并配备丰富的例子作为实践；第四部分主要结合Sencha Touch框架库和HTML5技术构建进行讲解，旨在帮助读者将HTML5技术运用于实践之中。本书主要围绕html5技术，讲述如何利用html5相关技术开发移动web网站和web app应用程序。《HTML5移动Web开发指南》共分为四大部分，第一部分主要讲述web技术的发展及html5标准在移动web技术中的应用；第二部分主要介绍html5的新功能和新特性如何在移动设备浏览器中使用及相关展望；第三部分主要介绍目前比较流行的两套javascript移动开发框架jquery mobile、sencha touch，以及phonegap，并配备丰富的例子作为实践；第四部分主要结合sencha touch框架库和html5技术构建进行讲解，旨在帮助读者将html5技术运用于实践之中。 "
+      },
+      {
+        "name": "《HTML5揭秘》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_c80758284c86bd4.jpg",
+        "href":"https://www.javascriptcn.com/read-60.html",
+        "introduction":"本书几乎涵盖了HTML5标准中描述的所有新特性。本书在以诙谐的文字结合生动的实例介绍HTML5特性的同时，还深入剖析其内部原理。让读者不仅知其然，而且知其所以然。无论是刚接触Web前端技术的新人，还是经验丰富的老手，只要是HTML5技术爱好者，都会从本书中受益。"
+      },
+      {
+        "name": "《HTML5实战》完整版PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_314973d62187625.jpg",
+        "href":"https://www.javascriptcn.com/read-58.html",
+        "introduction":"《HTML 5实战》是一本系统而全面的HTML 5教程，根据HTML 5标准的最新草案，系统地对HTML 5的所有重要知识点进行了全面的讲解。在写作方式上，本书以一种开创性的方式使理论与实践达到极好的平衡，不仅对理论知识进行了清晰而透彻的阐述，而且根据读者理解这些知识的需要，精心设计了106个完整（每个案例分为功能描述、实现代码、效果展示和代码分析4个部分）的实战案例，旨在帮助读者通过实践的方式迅速掌握这些知识。《HTML 5实战》共11章，内容涵盖了HTML 5的各个方面。第1章通过实现一个简单的HTML 5页面讲解了如何搭建支持HTML 5的浏览器环境、HTML 5页面所具备的特征，以及如何检测浏览器对HTML 5的各种特性的支持情况；第2章介绍了HTML 5中常用的交互元素，包括内容交互元素、菜单交互元素和状态交互元素等几大类；第3章介绍了HTML根元素、文档元素，以及与脚本、节点、分组内容、文本层次语义、嵌入内容、公共属性相关的重要元素；第4章和第5章讲解了HTML 5中的表单和文件的功能特性以及常见的各种操作；第6章和第7章讲解了HTML 5中的音频、视频和绘图相关的知识，重点讲解了各种常见的操作和使用方法；第8章和第9章讲解了HTML 5中的数据存储和离线应用；第10章对WEB SOCKETS、GEOLOCATION、WEB WORKERS、元素的拖放等重要内容进行了全面的讲解。《HTML 5实战》适合所有想系统学习HTML 5的读者阅读。如果按照本书的顺序逐章阅读，同时亲自动手实现本书中的案例，相信一定能达到事半功倍的效果。"
+      },
+      {
+        "name": "HTML5移动开发即学即用PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1512/thread/2_1_06d23739587a948.jpg",
+        "href":"https://www.javascriptcn.com/read-321.html",
+        "introduction":"HTML5移动开发即学即用(双色)书中几乎涵盖了HTML5规范中涉及的所有技水（还在酝酿中的IndexedDatabase除外），是您能找到的真正的HTML5技术大全。包含作者精心编写的，运行于常用PC测览器以及智能手机上的应用实例，操作性与实用性俱佳，可以让您做到即学即用。讲解兼顾常用的PC浏览器以及当前流行的各种智能移动设备，作者丰富的移动开发经验会让你受益匪浅。双色印刷，既美观大方，又方便您的阅读。"
+      },
+      {
+        "name": "《HTML5游戏开发 》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_0c8c38e8da9913c.jpg",
+        "href":"https://www.javascriptcn.com/read-57.html",
+        "introduction":"很多从事Web前端开发的人对HTML总有些不满，比如需要手动检查和设计很多格式代码，不仅容易出错，而且存在大量重复。好在HTML5让我们看到了曙光。作为下一代Web开发标准，HTML5成为主流的日子已经不远。它对音频视频、表单验证、事件处理、绘图等的支持都让我们非常期待，视频音频的播放、表单检查和提交、列表框初始化、控件的动态增减不再像原先那么费劲。HTML5可以帮助我们构建漂亮的动态网站，也许你想了解它的诸多新特性，又担心这些内容过于枯燥，那么你会很庆幸得到手上的这本书。它通过我们熟悉的一个个游戏让你轻松掌握HTML5、CSS和JavaScript的新特性，并灵活应用到Web开发中。也许你顾虑自己对编程一窍不通，不知如何融入丰富多彩的Web世界。那么大可放心，因为本书在介绍游戏开发时会从头谈起，不仅会点明通用的编程技术，甚至连最基础的标记也给出注释说明。相信通过阅读本书，你能轻松地迈进Web开发殿堂，并在这条路上走得更远！我们深深地感谢我们的家人和朋友。在翻译过程中，他们给予了我们莫大的关心、支持和帮助。全书由徐阳、荆涛主译，刘鑫、张野、任岗等检查术语，刘晓兵、伊瑞海等提供技术问题支持，在大家的努力下共同完成了本书的翻译工作"
+      },
+      {
+        "name": "《HTML5 Canvas基础教程》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_dc60dabcde9606e.jpg",
+        "href":"https://www.javascriptcn.com/read-61.html",
+        "introduction":"《HTML5 Canvas基础教程》从HTML5和JavaScript(以及jQuery)的基础知识讲起，全面介绍了HTML5 Canvas的各种特性，包括渲染上下文、坐标系统、绘制图形、保存和恢复画布状态，以及变形、合成、处理图像和视频等，让读者对Canvas建立起完整的认识。随后讨论了动画循环、记忆形状、模拟运动、碰撞检测等基本而又重要的概念，带领读者温习了必要的数学和物理知识。通过带领读者动手开发“太空保龄球”和“躲避小行星”这两款小游戏，让读者掌握开发游戏的基本流程，学会响应用户操作、创造虚拟环境、循环利用对象、设计计分系统等游戏开发必备的知识。《HTML5 Canvas基础教程》适合各层次Web设计及开发人员阅读。"
+      },
+      {
+        "name": "《O'Reilly：深入HTML5应用开发》",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_132fdeb2591467a.jpg",
+        "href":"https://www.javascriptcn.com/read-59.html",
+        "introduction":"本书合并了O’Reilly出版的《HTML5 Geolocation》与《HTML5:等轴实时游戏开发》两本书的内容。第一部分介绍了HTML5 Geolocation API。使用这种API，开发人员不必针对特定设备编程，就能够在浏览器中直接编写地理定位应用。这部分共6章，介绍了Geolocation API在浏览器代码中的使用，并通过大量示例向读者展示其“一次编写，随处部署”的特点。具体内容包括地理定位的基础知识简介，这套API的浏览器支持情况，以及如何利用它和其他常用地图工具在网页中实现类似Google地图的嵌入式地图。"
+      },
+      {
+        "name": "CSS从入门到精通 (第2版)PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1512/thread/2_1_2015336aca52d93.jpg",
+        "href":"https://www.javascriptcn.com/read-59.html",
+        "introduction":"CSS从入门到精通（第2版）本书内容丰富，讲解时注重思维方法的转变和提高实际操作能力，以最简单的方法介绍使用CSS进行符合Web标准的网页设计的相关知识和技巧。全书以CSS布局为主体内容，探讨CSS布局的入门知识与网站布局实战技巧、版式布局的细节、浏览器兼容性等，帮助读者改变传统的网站设计思维，进入基于Web标准的网页设计领域。本书含有大量实例，详细描述各个CSS属性以及代码编写技巧，方便读者模拟实践。"
+      }
+    ],
+    "jquery": [
+
+      {
+        "name": "精彩绝伦的JQuery PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1601/thread/2_1_9a27b173823ed8e.jpg",
+        "href":"https://www.javascriptcn.com/read-444.html",
+        "introduction":"精彩绝伦的JQuery通过大量实用技巧、案例、示例分4部分全面讲解了jQuery开发。第一部分介绍jQuery与Javascript库，以及jQuery带来的巨大便利。第二部分重点论述jQuery基础知识，包括选择器、事件与特效。第三部分探讨jQuery应用，包括用jQuery改进web表单验证等内容。第四部分是jQuery高级技术分析，如使用和编写插件、处理Ajax请求、编写移动应用。另外，本书最后盘点了jQuery线上资源。 "
+      },
+      {
+        "name": "《jquery mobile权威指南》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_c8016ce1f0f40e1.jpg",
+        "href":"https://www.javascriptcn.com/read-126.html",
+        "introduction":"jquery mobile权威指南是资深专家根据jQuery Mobile最新版本撰写，对jQueryMobile的所有功能、特性、使用方法和开发技巧进行了全面而透彻的讲解，是系统学习jQuery Mobile的权威参考书.而本文旨在为读者介绍仍在alpha版本阶段的jQuery Mobile框架（译注：目前jQuery Mobile已经为beta2版本）的开发基础知识和技巧。全书一共10章，从基础理论到最佳实践，内容几乎涵盖了jQueryMobile的各个方面。第1章介绍了jQueryMobile的功能特点、获取方法，以及与其他移动开发框架的对比；第2~5章分别讲解了jQueryMobile的页面与对话框、工具栏与格式化内容、页面常用组件、主题等基础知识；第6章和第7章分别详细介绍了jQueryMobile的插件和API；第8章探讨了jQueryMobile的开发技巧与最佳实践；第9章和第10章以迭代的方式详细讲解了两个具有代表性的综合案例的实现过程，不仅能帮助读者将前面所学的理论知识融会贯通，而且还能从中迅速获得实战经验。"
+      },
+      {
+        "name": "《Web开发典藏大系：jQuery网页开发实例精解》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_93d8e6e446f5a24.jpg",
+        "href":"https://www.javascriptcn.com/read-89.html",
+        "introduction":"《Web开发典藏大系：jQuery网页开发实例精解》是一本介绍jquery网页开发基础应用的书籍，是一本简单易懂，把复杂问题简单化的书。本书立足于jquery入门基础技术，对jquery的产生、jquery基础、如何将jquery应用于页面开发、如何产生页面元素特效等都进行了细致入微的讲解。这必将使每一个阅读本书的读者少走弯路，快速上手，建立用jquery进行开发网页的信心。《Web开发典藏大系：jQuery网页开发实例精解》共15章，分2篇。第1篇jquery基础理论，主要介绍javascript脚本、html dom、div的控制等知识，这些内容都是学习后续章节所必须掌握的基础知识。第2篇jquery实战开发与应用，主要介绍如何利用jquery控制页面元素；如何使页面元素产生特殊效果；不同功能插件的使用方法及注意事项；如何编写jquery插件，以帮助读者理解、使用和开发插件。《Web开发典藏大系：jQuery网页开发实例精解》配带1张光盘，收录了本书涉及的源代码和书中重点内容的教学视频。本书适合没有基础的jquery入门新手阅读；对于有一定基础的读者，可通过本书进一步理解jquery的各个重要知识点和概念；对于大、中专院校的学生和培训班的学员，本书不失为一本好教材。"
+      },
+      {
+        "name": "《jQuery基础教程（第四版）》中文pdf",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_a59ec929db0955d.jpg",
+        "href":"https://www.javascriptcn.com/read-67.html",
+        "introduction":"《jQuery基础教程(第4版)》是jQuery经典技术教程的最新升级版，涵盖jQuery 1.10.x和jQuery 2.0.x。本书前6章以通俗易懂的方式讲解了jQuery的核心组件，包括jQuery的选择符、事件、动画、DOM操作、Ajax支持等。第7章和第8章介绍了jQuery UI、jQuery Mobile及利用jQuery强大的扩展能力开发自定义插件。随后的几章更加深入地探讨了jQuery的各种特性及一些高级技术。附录A特别讲解了JavaScript中闭包的概念，以及如何在jQuery中有效地使用闭包。附录B讲解了使用QUnit测试JavaScript代码的必备知识。附录C给出了jQuery API的快速参考。"
+      },
+      {
+        "name": "《锋利的jQuery（第2版）》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_55bee29c0813bd5.jpg",
+        "href":"https://www.javascriptcn.com/read-50.html",
+        "introduction":"《锋利的jQuery(第2版)》循序渐进地对jQuery的各种函数和方法调用进行了介绍，读者可以系统地掌握jQuery的选择器、DOM操作、事件和动画、AJAX应用、插件、jQueryMobile、jQuery各个版本变化、jQuery性能优化和技巧等知识点，并结合每个章节后面的案例演示进行练习，达到掌握核心知识点的目的。　　为使读者更好地进行开发实践，《锋利的jQuery(第2版)》的第8章将前7章讲解的知识点和效果进行了整合，打造出一个非常有个性的网站，并从案例研究、网站材料、网站结构、网站样式和网站脚本等方面指导读者参与到项目建设中来。《锋利的jQuery(第2版)》适合所有对jQuery技术感兴趣的Web设计者和前端开发人员阅读和参考。"
+      },
+      {
+        "name": "《jQuery权威指南（第二版）》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_b967c5145fd62d1.jpg",
+        "href":"https://www.javascriptcn.com/read-98.html",
+        "introduction":"《jQuery 权威指南（第二版）》本书第1版3年来一直畅销不衰，是jQuery领域的标杆之作。4大网上书店的读者评论超过2100条，其中98％以上是五星级的好评，被读者誉为“系统学习jQuery技术的最佳指导参考书之一”！第2版在第1版的基础上做了大量的修订：技术更新，根据jQuery最新版本对全书进行了修订和补充。"
+      },
+      {
+        "name": "《jQuery高级编程》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_bdf5e7d997a774b.jpg",
+        "href":"https://www.javascriptcn.com/read-86.html",
+        "introduction":"《jQuery高级编程》从开发人员的层次对iQuery提供了一个全面的介绍。另外还深入介绍了iQuery的很多高级特性。在《jQuery高级编程》第1部分中，深入介绍了iQuery的基础知识、介绍了如何选择或操作DOM元素，以及如何绑定并处理浏览器的事件。在掌握了坚实的基础知识之后，本书将继续介绍iQuery的一些高级主题，包括使用JavaScript进行插件开发、单元测试和iQuery库的其他一些高级特性。《jQuery高级编程》着重介绍iQuery1.7.1的可用特性，但在相关的地方都要注意在低版本iQuery库中的支持能力。《jQuery高级编程》 PDF教程，中文完整扫描版电子书，内容涉及：如何操作dom元素和使用数据；使用HTML表单、Ajax和JSon的步骤、介绍动画设计和CSS属性，使用jQuery插件开发扩展jquery、如何编写高效的jquery代码、网站优化和扩展JavaScript Object，另外还将讲解jquery UI、jquery插件开发、jquery模板等，通过本书的内容将精通创建交互型网站关键任务所需的jquery技术。"
+      },
+      {
+        "name": "《jQuery实战》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_08f03bbe8cd3098.jpg",
+        "href":"https://www.javascriptcn.com/read-77.html",
+        "introduction":"《jQuery实战》jquery是目前最受欢迎的javascript/ajax库之一，能用最少的代码实现最多的功能。本书全面介绍jquery知识，展示如何遍历html文档、处理事件、执行动画以及给网页添加ajax。书中紧紧地围绕“用实际的示例来解释每一个新概念”这一宗旨，生动描述了jquery如何与其他工具和框架交互以及如何生成jquery插件。本书适合各层次web开发人员。"
+      }
+    ],
+    "javacript": [
+
+      {
+        "name": "精彩绝伦的JQuery PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_23ac2ada519347c.jpg",
+        "href":"https://www.javascriptcn.com/read-102.html",
+        "introduction":"《JavaScript实战》是一部讲述 JavaScript实战项目开发的精彩著作，由两部分组成。第一部分讨论一般性的 JavaScript主题，包括 JavaScript的简史、好的编码习惯、调试技巧和工具等；第二部分是 10个具体项目，每一章都会提出一个不同的应用，分析其内在的工作原理，然后提供能够提高读者技巧的练习。这些项目的范围从通用的小工具(可执行的计算器)到当代的各种创意(混搭)，再到单纯的趣味性(JavaScript游戏)。《JavaScrip实战》非常适合 Web开发人员阅读和参考。"
+      },
+      {
+        "name": "《JavaScript基础教程（第8版）》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_bb5e61baf09e731.jpg",
+        "href":"https://www.javascriptcn.com/read-44.html",
+        "introduction":"JavaScript基础教程(第8版)循序渐进地讲述了JavaScript及相关的CSS、DOM、Ajax、jQuery等技术。书中从JavaScript语言基础开始，分别讨论了图像、框架、浏览器窗口、表单、正则表达式、用户事件和cookie，并在上一版的基础上新增了两章，讲述jQuery框架的基础知识。本书不仅介绍了基础知识和使用方法，也深入探讨了JavaScript应用示例。"
+      },
+      {
+        "name": "《JavaScript权威指南(第6版)(中文版)》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_edb4089f0358e6c.jpg",
+        "href":"https://www.javascriptcn.com/read-41.html",
+        "introduction":"自1996年以来，JavaScript的：权威指南已为JavaScript圣经程序员，程序员指南和全面的参考，以核心语言和客户端JavaScript API的Web浏览器定义。第6版包括HTML5和ECMAScript 5，与jQuery和服务器端JavaScript新的篇章。这是推荐谁想要学习的Web编程语言经验的程序员，以及当前的JavaScript程序员谁想要掌握它。"
+      },
+      {
+        "name": "《编写高质量JavaScript代码的68个有效方法》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_cc73483104fd74e.jpg",
+        "href":"https://www.javascriptcn.com/read-46.html",
+        "introduction":"《Effective JavaScript：编写高质量JavaScript代码的68个有效方法》共分为7章，分别涵盖JavaScript的不同主题。第1章主要讲述最基本的主题，如版本、类型转换要点、运算符注意事项和分号局限等。第2章主要讲解变量作用域，介绍此方面的一些基本概念，以及一些最佳实践经验。第3章主要讲解函数的使用，深刻解析函数、方法和类，并教会读者在不同的环境下高效使用函数。第4章主要讲解原型和对象，分析JavaScript的继承机制以及原型和对象使用的最佳实践和原则。第5章主要介绍数组和字典，阐述将对象作为集合的用法以及使用数组和字典的一些陷阱。第6章介绍库和API，讲解如何设计良好的API的技巧，以清楚、简洁和明确地表达程序，并提高可重用率。第7章讲解并发，在技术上讨论一些“约定成俗”的JavaScript用法。"
+      },
+      {
+        "name": "《JavaScript面向对象编程指南》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_8fa53e5bd90c99b.jpg",
+        "href":"https://www.javascriptcn.com/read-36.html",
+        "introduction":"JavaScript是一种具有高度表达能力的、基于原型特性的、非常灵活的面向对象编程语言。《JavaScript面向对象编程指南》着重介绍JavaScript在面向对象方面的特性，展示如何构建强健的、可维护的、功能强大的应用程序及程序库。  全书包括8章和3个附录，依次介绍了JavaScript的发展历史、基础性话题(变量、数据类型、数组、循环以及条件表达式)、函数、对象、原 型、继承的实现、BOM和DOM等。附录部分包括了学习JavaScript编程常用的参考资源。尤其值得一提的是，《JavaScript面向对象编程 指南》作者是JavaScript设计模式方面的专家，他在本书第8章中介绍了几种常用的JavaScript编程模式，这也为他后续的另一本重要著作 《JavaScript Patterns》奠定了基础。  《JavaScript面向对象编程指南》全面地覆盖了JavaScript语言的OO特性，同时兼顾基础知识，对初学者来说，是难得的 JavaScript佳作。阅读本书不需要读者具备任何的JavaScript基础知识及项目经验，通过学习本书，读者将会在面试有关 JavaScript程序设计的职位时游刃有余。"
+      },
+      {
+        "name": "《JavaScript开发技术大全》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_062abb480d799c1.jpg",
+        "href":"https://www.javascriptcn.com/read-97.html",
+        "introduction":"《JavaScript开发技术大全》JavaScript开发技术大全由浅入深、循序渐进地介绍了javascript的核心语法、bom模型中的对象以及对象方法和属性、dom以及接口的使用方法，还介绍了ajax开发技术。.JavaScript开发技术大全分4篇讲解。第1篇为javascript语言基础，主要介绍在html代码中插入javascript代码，还介绍了javascript语法，如数据类型、直接量、变量、常量、保留字、表达式、运算符、语句等；第2篇为常用对象，主要介绍javascript核心的全局对象、函数和数组等；第3篇为javascript核心技术，主要介绍bom模型中的对象层次与事件、窗口对象、文档对象、屏幕对象、浏览器对象、历史对象、地址对象等，还介绍了dom模型中的接口以及使用方法及dom与正则表达式的结合使用等；第4篇为ajax开发，主要介绍了ajax与服务器、xml、css等方面的交互运用。..JavaScript开发技术大全适合于掌握了html语言、想进一步学习和全面学习动态网页的读者使用，也适合作为广大网站开发和网页设计人员的案头必备读物。"
+      },
+      {
+        "name": "《AngularJS权威教程》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_ffd12cc4addc68f.jpg",
+        "href":"https://www.javascriptcn.com/read-75.html",
+        "introduction":"《AngularJS权威教程》AngularJS是Google开发的下一代产业级Web应用框架，最早发布于2009年。随着全球众多Web项目（包括SPA，即单页应用）的竞相采用，AngularJS进入了成熟稳定期，是学习和研究下一代Web开发的首选框架。说到学习AngularJS，相信你早已厌倦了上网搜索、断续阅读的低效方式。本书堪称AngularJS领域的里程碑式著作，它以相当的篇幅涵盖了关于 AngularJS的几乎所有内容，既是一部权威教程，又是一部参考指南。对于没有经验的人，本书平实、通俗的讲解，递进、严密的组织，可以让人毫无压力 地登堂入室，迅速领悟新一代Web应用开发的精髓。如果你有相关经验，那本书对AngularJS概念和技术细节的全面剖析，以及引人入胜、切中肯綮的讲 解，将帮助你彻底掌握这个框架，在自己职业技术修炼之路上更进一步。本书是资深全栈工程师的代表性著作，由拥有丰富经验的国内AngularJS技术专家执笔翻译，通俗易懂、全面深入，是学习AngularJS不可错过的经典之作。无论是出于工作需要，还是好奇心的驱使，只要你想彻底理解AngularJS，本书都会让你感到满意。"
+      },
+      {
+        "name": "《JavaScript DOM编程艺术》(第二版)PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_30f1824bc5b38ea.jpg",
+        "href":"https://www.javascriptcn.com/read-42.html",
+        "introduction":"《javascript dom编程艺术:第2版》讲述了javascript、dom 和html5 的基础知识，着重介绍dom 编程技术背后的思路和原则：平稳退化、渐进增强和以用户为中心等。这些概念对于任何前端web 开发工作都非常重要。本书将这些概念贯穿在书中的所有代码示例中，以便呈现用来创建图片库页面的脚本、用来创建动画效果的脚本和用来丰富页面元素呈现效果的脚本，最后结合所讲述的内容创建了一个实际的网站。《javascript dom编程艺术:第2版》适合web 设计师和开发人员阅读。"
+      },
+      {
+        "name": "《JavaScript网页特效应用与开发手册》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_06784a19e047622.jpg",
+        "href":"https://www.javascriptcn.com/read-82.html",
+        "introduction":"《JavaScript网页特效应用与开发手册》"
+      },
+      {
+        "name": "《JavaScript高级程序设计(第3版)》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_dc73ce4117db365.jpg",
+        "href":"https://www.javascriptcn.com/read-43.html",
+        "introduction":"《JavaScript高级程序设计(第3版)》是JavaScript超级畅销书的最新版。ECMAScript5和HTML5在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript增添了很多适应未来发展的新特性。《JavaScript高级程序设计》这一版除增加5章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax与Comet服务器端通信，HTML5表单、媒体、Canvas(包括WebGL)及WebWorkers、地理定位、跨文档传递消息、客户端存储(包括IndexedDB)等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。《JavaScript高级程序设计(第3版)》附录展望了未来的API和ECMAScriptHarmony规范。《JavaScript高级程序设计(第3版)》适合有一定编程经验的Web应用开发人员阅读，也可作为高校及社会实用技术培训相关专业课程的教材。"
+      },
+      {
+        "name": "《JavaScript完全自学手册》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_373707b5921a651.jpg",
+        "href":"https://www.javascriptcn.com/read-71.html",
+        "introduction":"《JavaScript完全自学手册》javascript是一种几乎得到所有浏览器支持的脚本语言，用于实现客户端与浏览者的互动。随着互联网的发展，早期的静态网页已远不能满足需要。客户端脚本javascript是实现动态网页的基础，也是web 2.0概念所必须的组成部分，更是现在ajax技术的核心。可以说，javascript已经成为网页必要的组成部分。好的javascript脚本可以提高用户的浏览体验。JAVASCRIPT完全自学手册一共分为5篇，涵盖了javascript语言应用的绝大多数方面，从基本概念到具体实践、从抽象的算法到具体的页面特效、从最简单的输入/输出到最新的ajax技术都进行了详细的阐述，并对每一个具体知识点都进行了详细的实例讲解。JAVASCRIPT完全自学手册的特点是讲解的知识点易、广、全、深。每一个知识点均围绕具体的实例展开，且实例中配上了详细的注释和效果图，易于理解与实践，可以使读者在抽象的知识点中得到直观的印象。本书涵盖了javascript的绝大多数应用方面，牵涉的知识面很广。本书讲解的各类对象的属性、方法和事件等参考了微软公司的msdn，内容全面，深入到javascript的本质，不仅仅讲解了其在页面特效中的应用，还挖掘了javascript作为一种基于对象语言所特有的类与继承的实现。本书适合希望入门的用户阅读，也可作为开发人员的参考手册。 "
+      },
+      {
+        "name": "《JavaScript应用程序经典实例》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_8bb6511506a5a3c.jpg",
+        "href":"https://www.javascriptcn.com/read-127.html",
+        "introduction":"《JavaScript应用程序经典实例》懂得JavaScript语法是一回事，能够创建有用的应用程序就是另一回事了。虽然市面上有成打的JavaScript图书教你怎么做，但实际上，像本书这样，能够为网站管理员提供一整套易于使用的经典客户端JavaScript程序，并且带有完整说明文字的，却是少之又少。一册在手，读者可以立即利用书中的程序为自己的网站增添各种丰富功能。本书围绕JavaScript核心功能，深入探索了相关的代码和技术。书中的程序可以帮助读者将自己的网站模块化，从而在站点管理和程序开发中省时省力。"
+      },
+      {
+        "name": "《JavaScript设计模式》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_1fd25bec8eaba7b.jpg",
+        "href":"https://www.javascriptcn.com/read-100.html",
+        "introduction":"《JavaScript 设计模式》 本书共有两部分。第一部分给出了实现具体设计模式所需要的面向对象特性的基础知识，主要包括接口、封装和信息隐藏、继承、单体模式等内容。第二部分则专注 于各种具体的设计模式及其在javascript 语言中的应用，主要介绍了工厂模式、桥接模式、组合模式、门面模式等几种常见的模式。为了让每一章中的示例都尽可能地贴近实际应用，书中同时列举了一些 javascript 程序员最常见的任务，然后运用设计模式使其解决方案变得更模块化、更高效并且更易维护，其中较为理论化的例子则用于阐明某些要点。"
+      },
+      {
+        "name": "《悟透JavaScript》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_09d30871b646dbb.jpg",
+        "href":"https://www.javascriptcn.com/read-90.html",
+        "introduction":"《悟透JavaScript》翻开此书的你，也许是JavaScript的崇拜者，正想摩拳擦掌地想尝试下学一学这一精巧的语言；也许是80后，90后的程序员或者前端架构师，正被 JavaScript魔幻般的魅力所吸引，所困惑，已经徘徊许久……那么本书正是你所需要的！通过本书，您可以独辟蹊径学习、理解和运用 JavaScript；通过本书，您可以更轻松地编写动态网页；通过本书，您可以更深入地理解AJAX技术；通过本书，您可以在学习技术本身的同时，领悟到编程的境界；通过本书，您可以更多地享受到读书的快乐和程序的魅力……"
+      },
+      {
+        "name": "《JavaScript实战手册》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_cb0f49f595fd4a5.jpg",
+        "href":"https://www.javascriptcn.com/read-110.html",
+        "introduction":"《JavaScript实战手册》本书中的重要内容包括：直接从构建结构良好的JavaScript程序开始，这些程序操作HTML和CSS Web页面。定制代码——本书按部就班的教程允许只添加Web页面需要的功能。通过学习本书中的生动在线示例，你可以开发自己的Web站点的解决方案。避免常见的错误，明确在此过程中怎么做。通过jQurey库预先编写好的大量代码来节约时间和精力。使用简单的Ajax编程，集成来自Web服务器或Google Maps的数据。在本书中，畅销书作者David McFarland教你如何以高级的方式使用JavaScript，即便你只有很少或者没有编程经验。一旦掌握了这种语言的结构和术语，你将学习如何使用高级的JavaScript工具来快速为站点添加有用的交互，而不是一切从头开始编写脚本。和其他的Missing Manuals图书不同，本书清楚、精炼，手把手地讲解。现代Web站点需要发布的东西远不仅仅是文本。访问者期待智能化的表单、导航标签页、弹出式帮助屏幕，以及交互式的照片集。本书介绍用漂亮的样式发布这些元素所需的所有JavaScript知识，即便你不是程序设计高手，也可以轻松地阅读和学习本书。"
+      },
+      {
+        "name": "《JavaScript权威指南(第5版)中文版》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_60ad6087e56f713.jpg",
+        "href":"https://www.javascriptcn.com/read-104.html",
+        "introduction":"第5版针对Ajax和Web 2.0技术进行了全新的改版。和上一版相比，更新的内容较多，总体上接近整个篇幅的1／2，而这也正是本书姗姗来迟的原因之一。具体来说，第5版在以下部分有所更新：第一部分关于函数的一章（第8章）进行了扩展，特别强调了嵌套的函数和闭包。新增了自定义类、名字空间、脚本化Java、嵌入JavaScript等内容。第二部分最大的改变是增加了如下的大量新内容。包括第19章“cookie和客户端持久性”，第20章“脚本化HTTP”，第21章“JavaScipt和XML”，第22章“脚本化客户端图形”，第23章“脚本化Java Applets和Flash电影”。第三部分几乎没有太大变化。而第四部分增加了对DOM API的介绍。总体上分为“基础知识点介绍”和“参考指南”两部分，这是本书的一大特色。从之前版本受欢迎的程度来看，这种结构得到了读者相当大的认可，满足了他们学习基础知识和参考查阅难点的双重需要。而这也是其他同类图书所不及的。《JavaScript权威指南第4版》中文版出版至今已有三年多的时间。这本《JaVaScript权威指南》连续印刷5次，销售数十万册，成为很多JavaScript学习者的必备宝典。由于其封面上是一只“爪哇犀牛”（封面上印上动物是原书出版公司O'Reilly一贯的风格），读者亲切地称其为“犀牛书”。"
+      },
+      {
+        "name": "《JavaScript异步编程：设计快速响应的网络应用》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_5b1bbe05627e176.jpg",
+        "href":"https://www.javascriptcn.com/read-56.html",
+        "introduction":"《javascript异步编程：设计快速响应的网络应用》讲述基本的异步处理技巧，包括pubsub、事件模式、promises 等，通过这些技巧，可以更好地应对大型web 应用程序的复杂性，交付快速响应的代码。理解了javascript 的异步模式可以让读者写出结构更合理、性能更出色、维护更方便的javascript 程序。《javascript异步编程：设计快速响应的网络应用》适合javascript 开发人员阅读。javascript是个单线程的编程语言，你如何应对多媒体、多任务、多核的世界？经验丰富的javascript程序员也难免被网络中错综复杂的回调弄得灰头土脸。那么，你绝对应该看看这本《javascript异步编程》。《javascript异步编程：设计快速响应的网络应用》从最基本也是最重要的javascript事件模型开始，生动地复盘了各种异步应用情景，逐一呈现了目前在用的各种异步设计模式和异步编程类库，从pubsub到promise对象，从异步工作流控制类库到worker多线程技术，直到浏览器端脚本的异步加载技术。本书叙述流畅，从问题引入，到初步解决，再到用例延伸、进阶方案，一路抽丝剥茧，层层推进，精彩纷呈。一册在手，定能让你自信地应对大型web应用程序的复杂性，交互快速响应的javascript代码！ "
+      },
+      {
+        "name": "《JavaScript经典教程》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_5dac3bae61d6891.jpg",
+        "href":"https://www.javascriptcn.com/read-73.html",
+        "introduction":"JavaScript经典教程 让初学者不再感到困惑与不解,使我们的眼前豁然开朗,希望大家能有所收获!JavaScript实例教程(经典的JS入门教程) pdf扫描版(带书签),包括JavaScript基础知识、对象、事件处理、文档对象、窗口与浏览器、表单对象、链接与图像、Dhtml基储Dhtml应用，hTML4.0快速参考手册，CSS属性参考等内容"
+      },
+      {
+        "name": "《JavaScript完全手册》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_00ab1b0faf013f7.jpg",
+        "href":"https://www.javascriptcn.com/read-93.html",
+        "introduction":"《JavaScript完全手册》全面而详细地介绍了JavaScript的基本概念、编程技巧和属性参考说明。使用本书，你可以使用JavaScript创建动态、灵活的Web页。不管你是一位编程新手还是一位有经验的开发员，你都可以找到自己要找的内容，从基础知识（比如语法）到高级知识（包括使用浏览器插件进行交互、W3C DOM标准等）。使用本书，你可以学会创建跨浏览器的脚本，包括表单确认、可视化效果、导航系统等。附录部分提供了可以快速访问的有用资源，包括对象参考、浏览器兼容性表、JavaScript重点语法表。本书作者具有多年网络编程开发的经验，且对JavaScript也有很深研究，全书语言严密，流畅，深入浅出，并且附有大量示例程序以供参考。"
+      },
+      {
+        "name": "《JavaScript征途》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_cfb2d43e08bfa25.jpg",
+        "href":"https://www.javascriptcn.com/read-79.html",
+        "introduction":"《JavaScript征途》 本书是一本学习javascript语言的权威书籍，在遵循语言学习的特殊规律基础上精心选材，力争做到统筹、有序，在结构上体现系统性和完整性。同时还重点挖掘javascript基于对象的开发精髓及函数式编程两个技术核心。.本书内容全面，由浅入深，包括6篇21章，主要内容包括：javascript语言的基本特性，开发简单的javascript程序，javascript语法体系，数据、数据类型和变量，运算符和表达式，语句和结构，javascript函数， javascript对象，数组，字符串，使用正则表达式操纵字符串，客户端，控制文档结构的模型，javascript事件驱动模型，css，cookie，xml和json，ajax，深入javascript面向对象编程，深入javascript函数式编程，深入javascript动态化编程等。..本书适用于具有一定程序开发基础、准备学习javascript语言或希望提高javascript语言技巧的读者，还可作为相关培训班的教材。"
+      },
+      {
+        "name": "《JavaScript王者归来》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_202e0ffcc3385b1.jpg",
+        "href":"https://www.javascriptcn.com/read-72.html",
+        "introduction":"JavaScript王者归来分为五个部分循序渐进地与读者讨论了JavaScript的方方面面，从简单的语言基础到丰富的实际应用再到深入剖析语言本质的高级话题，字里行间包含着作者多年工作中对JavaScript实践乃至程序设计思想的深入思考和总结。本书揭开了JavaScript的面纱，绕过误解和虚幻的表象，引领你探索程序王国的奥妙。它既是一本为初学者准备的入门级教程，又是一本探寻程序设计思想本源的“魔法典籍”，也是一本Web开发工程师们需要的案头参考书。本书是你进入脚本王国的一把钥匙，引导你领略脚本魔法的神奇魅力。它还是一本着眼于未来改变互联网的启蒙读物，在它的引领下，你将在互联网的世界里获得你所希望得到的知识、智慧、成就和快乐。 "
+      },
+      {
+        "name": "《Ext江湖》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_e47e8e036cb6514.jpg",
+        "href":"https://www.javascriptcn.com/read-128.html",
+        "introduction":"《Ext江湖》以幽默诙谐的语言由浅入深地解析了Ext框架的方方面面，包括JS基础、Ext的DOM和CSS封装、内置对象的扩展、事件系统、Ajax和Direct、数据和缓存架构、面向对象和继承、UI组件、布局管理、模板、特效、图表和报表、Ext4新特性介绍等内容。文中穿插大量的实例和基础理论解析，寓教于乐，严谨而不失活泼。对于Ext的使用者来说，《Ext江湖》针对实战中面临的种种问题，给出了详尽的解决方案和思路；对于想研究源码的读者来说，《Ext江湖》绝对是难得的良师益友。全书思路清晰、内容一气呵成，适合Ext用户参考学习，还适合其他JS框架的开发者阅读和参考。"
+      },
+      {
+        "name": "《JavaScript修炼之道》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_f1e58eedac48b80.jpg",
+        "href":"https://www.javascriptcn.com/read-95.html",
+        "introduction":"《JavaScript修炼之道》JavaScript 已无处不在。在当今纷繁复杂的网络世界中，它是不可或缺的组成部分。然而，即便对有经验的开发人员而言，JavaScript的体系都像难以穿越的生态环境系统。为此，本书以有别于一般教程的任务驱动方式来组织，围绕35个必会的关键JavaScript任务进行论述，并针对常见任务提出了一些新的开发方法，再加上本书独特的左页原理右页代码的编排方式，使你在阅读过程中快速地获得提升。在本书中，作者将教会你基本原理、最便利的工具以及业内最佳实践，同时也能帮你简化编程模型，适应更加复杂的交互需求，提升用户在客户端的浏览体验。如果你熟悉其他任何语言编程，那么通过本书掌握JavaScript将易如反掌。"
+      }
+    ],
+
+    "ajax": [{
+        "name": "《Ajax 从入门到精通》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_2d56efcabb95b92.jpg",
+        "href":"https://www.javascriptcn.com/read-304.html",
+        "introduction":"Ajax由HTML、java script™ 技术、DHTML 和 DOM 组成，这一杰出的方法可以将笨拙的 Web 界面转化成交互性的 Ajax 应用程序。本系列的作者是一位 Ajax 专家，他演示了这些技术如何协同工作——从总体概述到细节的讨论——使高效的Web开发成为现实。他还揭开了Ajax核心概念的神秘面纱，包括XMLHttpRequest对象。五年前，如果不知道XML，您就是一只无人重视的丑小鸭。十八个月前，Ruby成了关注的中心，不知道Ruby的程序员只能坐冷板凳了。今天，如果想跟上最新的技术时尚，那您的目标就是 Ajax。但是，Ajax不仅仅 是一种时尚，它是一种构建网站的强大方法，而且不像学习一种全新的语言那样困难。"
+      },
+      {
+        "name": "《head first ajax (中文版) 》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_2203c7a014d2f30.jpg",
+        "href":"https://www.javascriptcn.com/read-54.html",
+        "introduction":"《Head First Ajax》是了解如何构建动态、交互式Web应用的一个完美学习体验。这本书专门针对你的大脑而制作，涵盖JavaScript、XHTML、异步和同步请求、DOM以及扩展和提升你的Web应用开发能力所需的所有内容。你要做的不只是记住其他人所写框架中的某些方法，也不再只是从某个工具包向应用拖放部件。读完这本书，你将构建一流的应用，能够与服务器通信而无需重新加载页面，能够响应用户的动作在屏幕上移动元素，甚至在用户犯错误之前就能够预料到用户可能犯的错误。为什么这本书如此与众不同？我们认为，你的时间如此宝贵，不应过多地浪费在与新概念的斗争中。通过使用认知科学和学习理论的最新研究成果，你将享受一种多感官学习体验，《Head First Ajax》采用了一种专门为你的大脑而设计的丰富格式娓娓道来，而不是长篇累牍地说教，让你昏昏欲睡。"
+      },
+      {
+        "name": "《AJAX企业级开发》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_81b9383df969f69.jpg",
+        "href":"https://www.javascriptcn.com/read-83.html",
+        "introduction":"《AJAX企业级开发》首先解释了ajax 为什么在大规模的开发中能有如此广阔的应用前景，接着系统地介绍了当前重要的ajax 技术和组件。你将看到把数据表、web 窗体、图表、搜索和过滤连接在一起用于构建ajax 应用程序的框架开发的整个过程；在此基础上，本书给出了已经过证实的ajax 架构模式，以及来源于实际的.net 和java ajax 应用程序的案例研究。"
+      },
+      {
+        "name": "《Ajax基础教程》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_65d5ad4035d848e.jpg",
+        "href":"https://www.javascriptcn.com/read-63.html",
+        "introduction":"Ajax技术可以提供高度交互的Web应用，给予用户更丰富的页面浏览体验。本书重点介绍Ajax及相关的工具和技术，主要内容包括XMLHttpRequest对象及其属性和方法、发送请求和处理响应、构建完备的Ajax开发工具、使用JsUnit测试JavaScript、分析JavaScript调试工具和技术，以及Ajax开发模式和框架等。本书中所有例子的代码都可以从Apress网站本书主页的源代码（Source Code）免费得到。本书适合各层次Web应用开发人员和网页设计人员阅读。 "
+      },
+      {
+        "name": "《疯狂Ajax讲义(第3版)》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_6e7af56a24c57d2.jpg",
+        "href":"https://www.javascriptcn.com/read-64.html",
+        "introduction":"《疯狂ajax讲义(第3版)——jquery/ext js/prototype/dwr企业应用前端开发实战》详细介绍了jquery 1.8、ext js 4.1、prototype 1.7.1、dwr这4个最常用的ajax框架的用法，并针对每个框架提供了一个实用案例，让读者理论联系实际。这部分内容是“疯狂软件教育中心”的标准讲义，它既包含了实际ajax开发的重点和难点，也融入了大量学习者的学习经验和感悟。再由笔者以丰富的授课经验为基础，深入浅出地介绍它们，希望读者真正掌握ajax开发的精髓。本书最后提供了2个综合性案例：blog系统和电子拍卖系统，让读者将前面所学真正应用到实际项目中。电子拍卖系统是一个包含5个表、表之间具有复杂关联映射的系统，该案例采用目前最流行、最规范的轻量级java ee架构，将整个应用分为领域对象层、dao层、业务逻辑层, 然后用dwr作为ajax引擎调用业务逻辑方法响应异步请求，系统权限检查推迟到业务逻辑层完成，并使用http session跟踪用户操作状态，从而避免用户刷新浏览器导致的浏览状态丢失。该案例对实际项目具有极好的指导价值和借鉴意义。该案例既提供了ide无关的、基于ant管理的项目源码，也提供了基于eclipse ide的项目源码，最大限度地满足读者的需求。《疯狂ajax讲义(第3版)——jquery/ext js/prototype/dwr企业应用前端开发实战》并非针对零基础的读者，书中不再包含html、css、javascript相关知识，这些知识是阅读本书的基础。本书适合有初步html、css、javascript基础的读者，或对企业应用前端开发不太熟悉的开发人员。如果你已经掌握本书上篇：《疯狂html 5/css 3/javascript讲义》内容，将非常适合阅读此书。 "
+      },
+      {
+        "name": "《Ajax安全技术》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_f9956b64de65311.jpg",
+        "href":"https://www.javascriptcn.com/read-84.html",
+        "introduction":"《Ajax安全技术》本书是一本为专业人士提供预防Ajax安全漏洞一手实践的入门指导书。众所周知，Ajax具备变革互联网的潜力，但危险的新安全威胁同样随之而来。本书揭示Ajax框架与生俱来的安全弱点密集区域，为开发人员创造安全应用提供指导。每一章由一个Ajax安全谬误开始，随后即将其揭穿。通读本书你将看到很多用于阐述关键知识点的真实Ajax安全漏洞案例。在书中还讲到保护Ajax应用的特殊方法，包括每种主要Web编程语言（.NET、Java和PHP）及流行新语言Ruby on Rails。《AJAX安全技术》一书对AJAX安全这一未开发领域进行了非常严谨、彻底的探讨。每个AJAX工程师都应该去掌握本书中的知识——至少应该明白其中的原理。"
+      }
+    ],
+
+    "node": [{
+        "name": "《Node.js开发指南》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_fa109e7a2360bd3.jpg",
+        "href":"https://www.javascriptcn.com/read-69.html",
+        "introduction":"首先简要介绍Node.js，然后通过各种示例讲解Node.js的基本特性，再用案例式教学的方式讲述如何用Node.js进行Web开发， 接着探讨一些Node.js进阶话题，最后展示如何将一个Node.js应用部署到生产环境中。《Node.js开发指南》面向对Node.js感兴 趣，但没有基础的读者，也可供已了解Node.js，并对Web前端/后端开发有一定经验，同时想尝试新技术的开发者参考。"
+      },
+      {
+        "name": "《Node Web开发》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_f4e5d113acd8a60.jpg",
+        "href":"https://www.javascriptcn.com/read-68.html",
+        "introduction":"Node是一个服务器端的JavaScript解释器，是构建快速响应、高度可扩展网络应用的轻量高效的平台。Node使用事件驱动和非阻塞的I/O模型，非常适合数据密集、对实时响应要求高的分布式应用。微软、eBay、LinkedIn、雅虎等世界知名公司及网站均有使用Node的成功案例。 《Node Web开发》是基于Node开发Web应用的实用指南，全书共分6章，通过示例详尽介绍了Node的背景、原理及应用方法。全书内容涉及Node简介、Node安装、Node模块、实现不同版本的简单应用、实现简单的Web服务器和EventEmitter，以及数据存储和检索。另外，本书涵盖了Node服务器端开发的主要挑战及应对方案。 《Node Web开发》适合Web前、后端开发人员学习参考。"
+      },
+      {
+        "name": "Node.js入门经典PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1601/thread/2_1_fa6ac4d092dbc13.jpg",
+        "href":"https://www.javascriptcn.com/read-443.html",
+        "introduction":"《Node.js入门经典》分为6部分，第1部分介绍了Node.js的基本概念和特性；第2部分讲解如何借助HTTP模块和ExpressWeb框架，使用Node.js创建基本的网站；第3部分介绍了调试和测试Node.js应用程序的工具，以及部署Node.js应用的方法；第4部分讲解了Node.js实现实时编程的能力以及Socket.IO；第5部分介绍了Node.jsAPI以及构建Node.js应用程序所使用的组件；第6部分则介绍了CoffeeScript这款JavaScript预编译器的知识，以及如何在Node.js中使用中间件、Backbone.js来创建单页面应用的知识。Node.js入门经典内容循序渐进、深入浅出、步骤详尽，而且附有大量适合动手实践的示例，可帮助读者在最短的时间内掌握Node.js。本书适合对Node.js感兴趣的零基础人员阅读，也适合对Web前端开发、后端开发感兴趣的技术人员阅读。 "
+      },
+      {
+        "name": "《Node即学即用》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_eba2f5da01ff01c.jpg",
+        "href":"https://www.javascriptcn.com/read-74.html",
+        "introduction":"《Node即学即用》由休斯－克劳奇、威尔逊编著，《Node即学即用》讲解如何用Node构建可扩展因特网应用，是全面的实用指南，除了详细介绍Node提供的API外，还用大量篇幅介绍了服务器事件驱动开发的重要概念。内容涉及跨服务器的并发连接、非阻塞I/O和事件驱动的编程、如何支持各种数据库和数据存储工具、NodeAPI的使用示例等。适合对JavaScript及编程有一定程度了解的读者阅读。"
+      }
+    ],
+
+    "others": [{
+        "name": "《啊哈！算法》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_b33e68520cea02b.jpg",
+        "href":"https://www.javascriptcn.com/read-115.html",
+        "introduction":"《啊哈！算法》是一本充满智慧和趣味的算法入门书。没有枯燥的描述，没有难懂的公式，一切以实际应用为出发点，通过幽默的语言配以可爱的插图来讲解算法。你更像是在阅读一个个轻松的小故事或是在玩一把趣味解谜游戏，在轻松愉悦中便掌握算法精髓，感受算法之美。"
+      },
+      {
+        "name": "《Web前端黑客技术揭秘》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_19e71ef13e00ee7.jpg",
+        "href":"https://www.javascriptcn.com/read-114.html",
+        "introduction":"web前端的黑客攻防技术是一门非常新颖且有趣的黑客技术，主要包含web 前端安全的跨站脚本（xss）、跨站请求伪造（csrf）、界面操作劫持这三大类，涉及的知识点涵盖信任与信任关系、cookie安全、flash 安全、dom 渲染、字符集、跨域、原生态攻击、高级钓鱼、蠕虫思想等，这些都是研究前端安全的人必备的知识点。本书作者深入剖析了许多经典的攻防技巧，并给出了许多独到的安全见解。《安全技术大系:web 前端黑客技术揭秘》适合前端工程师阅读，同时也适合对 web 前端各类安全问题或黑客攻防过程充满好奇的读者阅读，书中的内容可以让读者重新认识到web 的危险，并知道该如何去保护自己以免受黑客的攻击。 "
+      }
+    ],
+
+    "frames": [{
+        "name": "Bootstrap 编码规范",
+        "src": "https://static.bootcss.com/www/assets/img/codeguide.png",
+        "href": "http://codeguide.bootcss.com",
+        "text": "Bootstrap 编码规范：编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范。"
+      },
+      {
+        "name": "Yarn 中文文档",
+        "src": "https://static.bootcss.com/www/assets/img/yarn.png",
+        "href": "https://yarn.bootcss.com/",
+        "text": "Yarn 是一个快速、可靠、安全的依赖管理工具。是 NPM 的替代品。"
+      },
+      {
+        "name": "Webpack 前端资源模块化管理和打包工具",
+        "src": "https://static.bootcss.com/www/assets/img/webpack.png",
+        "href": "https://webpack.bootcss.com/",
+        "text": "Webpack 是当下最热门的前端资源模块化管理和打包工具。它可以将许多松散的模块按照依赖和规则打包成符合生产环境部署的前端资源。"
+      },
+      {
+        "name": "gulp.js 基于流的自动化构建工具。",
+        "src": "https://static.bootcss.com/www/assets/img/gulpjs.png",
+        "href": "http://www.gulpjs.com.cn/",
+        "text": "gulp.js - 基于流(stream)的自动化构建工具。Grunt 采用配置文件的方式执行任务，而 Gulp 一切都通过代码实现。"
+      },
+      {
+        "name": "Less 一种动态样式语言",
+        "src": "https://static.bootcss.com/www/assets/img/lesscss.png",
+        "href": "http://lesscss.cn/",
+        "text": "LESS为CSS赋予了动态语言的特性，如变量、继承、运算、函数。LESS既可以在客户端上运行 (支持IE 6+、Webkit、Firefox)，也可以借助Node.js或者Rhino在服务端运行。"
+      },
+      {
+        "name": "Vue.js 中文文档",
+        "src": "https://static.bootcss.com/www/assets/img/vuejs.png",
+        "href": "https://vuejs.bootcss.com/",
+        "text": "Vue.js - 是一套构建用户界面的渐进式框架。"
+      },
+      {
+        "name": "Bootstrap优站精选",
+        "src": "https://static.bootcss.com/www/assets/img/expo.png",
+        "href": "http://expo.bootcss.com/",
+        "text": "Bootstrap优站精选频道收集了众多基于 Bootstrap 构建、设计精美的、有创意的网站。"
+      },
+      {
+        "name": "Responsive Nav 响应式导航",
+        "src": "https://static.bootcss.com/www/assets/img/responsive-nav.js.png",
+        "href": "http://responsive-nav.com/#features",
+        "text": "响应式导航（Responsive Nav）是一个很小的JS插件，压缩之后仅有1.7KB，能帮你创建针对小屏幕的可切换式导航"
+      },
+      {
+        "name": "Chart.js 精巧的JS图表绘制工具库",
+        "src": "https://static.bootcss.com/www/assets/img/chart.js.png",
+        "href": "http://chartjs.cn/",
+        "text": "Chart.js是一个简单、面向对象、为设计者和开发者准备的图表绘制工具库。"
+      },
+      {
+        "name": "Font Awesome 专用矢量图标字体",
+        "src": "https://static.bootcss.com/www/assets/img/font-awesome.png",
+        "href": "http://www.fontawesome.com.cn/",
+        "text": "Font Awesome 中包含的所有图标都是矢量的，也就可以任意缩放，避免了一个图标做多种尺寸的麻烦。CSS对字体可以设置的样式也同样能够运用到这些图标上了。"
+      }
+    ],
+    "lunbo": [{
+        "name": "《啊哈！算法》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_b33e68520cea02b.jpg",
+        "href":"https://www.javascriptcn.com/read-115.html",
+        "introduction":"《啊哈！算法》是一本充满智慧和趣味的算法入门书。没有枯燥的描述，没有难懂的公式，一切以实际应用为出发点，通过幽默的语言配以可爱的插图来讲解算法。你更像是在阅读一个个轻松的小故事或是在玩一把趣味解谜游戏，在轻松愉悦中便掌握算法精髓，感受算法之美。"
+      },
+      {
+        "name": "《Web前端黑客技术揭秘》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1511/thread/2_1_19e71ef13e00ee7.jpg",
+        "href":"https://www.javascriptcn.com/read-114.html",
+        "introduction":"web前端的黑客攻防技术是一门非常新颖且有趣的黑客技术，主要包含web 前端安全的跨站脚本（xss）、跨站请求伪造（csrf）、界面操作劫持这三大类，涉及的知识点涵盖信任与信任关系、cookie安全、flash 安全、dom 渲染、字符集、跨域、原生态攻击、高级钓鱼、蠕虫思想等，这些都是研究前端安全的人必备的知识点。本书作者深入剖析了许多经典的攻防技巧，并给出了许多独到的安全见解。《安全技术大系:web 前端黑客技术揭秘》适合前端工程师阅读，同时也适合对 web 前端各类安全问题或黑客攻防过程充满好奇的读者阅读，书中的内容可以让读者重新认识到web 的危险，并知道该如何去保护自己以免受黑客的攻击。 "
+      },
+      {
+        "name": "Node.js入门经典PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1601/thread/2_1_fa6ac4d092dbc13.jpg",
+        "href":"https://www.javascriptcn.com/read-443.html",
+        "introduction":"《Node.js入门经典》分为6部分，第1部分介绍了Node.js的基本概念和特性；第2部分讲解如何借助HTTP模块和ExpressWeb框架，使用Node.js创建基本的网站；第3部分介绍了调试和测试Node.js应用程序的工具，以及部署Node.js应用的方法；第4部分讲解了Node.js实现实时编程的能力以及Socket.IO；第5部分介绍了Node.jsAPI以及构建Node.js应用程序所使用的组件；第6部分则介绍了CoffeeScript这款JavaScript预编译器的知识，以及如何在Node.js中使用中间件、Backbone.js来创建单页面应用的知识。Node.js入门经典内容循序渐进、深入浅出、步骤详尽，而且附有大量适合动手实践的示例，可帮助读者在最短的时间内掌握Node.js。本书适合对Node.js感兴趣的零基础人员阅读，也适合对Web前端开发、后端开发感兴趣的技术人员阅读。 "
+      },
+      {
+        "name": "《HTML5与CSS3基础教程(第8版)》",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_6bda5e209a3e587.jpg",
+        "href":"https://www.javascriptcn.com/read-55.html",
+        "introduction":"《HTML5与CSS3基础教程(第8版)》自第1版至今，一直是讲解HTML和CSS入门知识的经典畅销书，全面系统地阐述HTML5和CSS3基础知识以及实际运用技术，通过大量实例深入浅出地分析了网页制作的方方面面。最新第8版不仅介绍了文本、图像、链接、列表、表格、表单等网页元素，还介绍了如何为网页设计布局、添加动态效果等，另外还涉及调试和发布。《HTML5与CSS3基础教程(第8版)》提供了一个强大的配套网站，上面列出了书中的完整代码示例以及更多优秀实例及进阶参考资料，以供读者参考学习。通过学习《HTML5与CSS3基础教程(第8版)》，零起点读者即可创建网站，而中高级水平的开发人员也可以快速了解HTML5新元素、CSS3的奇幻效果、响应式Web设计以及各种最佳实践。"
+      },
+      {
+        "name": "CSS从入门到精通 (第2版)PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1512/thread/2_1_2015336aca52d93.jpg",
+        "href":"https://www.javascriptcn.com/read-316.html",
+        "introduction":"CSS从入门到精通（第2版）本书内容丰富，讲解时注重思维方法的转变和提高实际操作能力，以最简单的方法介绍使用CSS进行符合Web标准的网页设计的相关知识和技巧。全书以CSS布局为主体内容，探讨CSS布局的入门知识与网站布局实战技巧、版式布局的细节、浏览器兼容性等，帮助读者改变传统的网站设计思维，进入基于Web标准的网页设计领域。本书含有大量实例，详细描述各个CSS属性以及代码编写技巧，方便读者模拟实践。"
+      },
+      {
+        "name": "《JavaScript权威指南(第6版)(中文版)》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_edb4089f0358e6c.jpg",
+        "href":"https://www.javascriptcn.com/read-41.html",
+        "introduction":"自1996年以来，JavaScript的：权威指南已为JavaScript圣经程序员，程序员指南和全面的参考，以核心语言和客户端JavaScript API的Web浏览器定义。第6版包括HTML5和ECMAScript 5，与jQuery和服务器端JavaScript新的篇章。这是推荐谁想要学习的Web编程语言经验的程序员，以及当前的JavaScript程序员谁想要掌握它。"
+      },
+      {
+        "name": "《JavaScript王者归来》PDF",
+        "src": "https://www.javascriptcn.com/attachment/thumb/mini/1510/thread/2_1_202e0ffcc3385b1.jpg",
+        "href":"https://www.javascriptcn.com/read-72.html",
+        "introduction":"JavaScript王者归来分为五个部分循序渐进地与读者讨论了JavaScript的方方面面，从简单的语言基础到丰富的实际应用再到深入剖析语言本质的高级话题，字里行间包含着作者多年工作中对JavaScript实践乃至程序设计思想的深入思考和总结。本书揭开了JavaScript的面纱，绕过误解和虚幻的表象，引领你探索程序王国的奥妙。它既是一本为初学者准备的入门级教程，又是一本探寻程序设计思想本源的“魔法典籍”，也是一本Web开发工程师们需要的案头参考书。本书是你进入脚本王国的一把钥匙，引导你领略脚本魔法的神奇魅力。它还是一本着眼于未来改变互联网的启蒙读物，在它的引领下，你将在互联网的世界里获得你所希望得到的知识、智慧、成就和快乐。 "
+      }
+    ]
+
+  }
+
+}
+
+
